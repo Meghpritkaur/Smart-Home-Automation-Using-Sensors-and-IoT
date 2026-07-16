@@ -9,8 +9,8 @@
 
 // Auth and Wi-Fi
 char auth[] = "jxoFaPNc0jsBuNDatATkJq7z4l-gg_GN";
-char ssid[] = "OnePlus";
-char pass[] = "12345";
+char ssid[] = "your id";
+char pass[] = "your password";
 
 // GPIO Definitions
 #define FAN_PIN 25
