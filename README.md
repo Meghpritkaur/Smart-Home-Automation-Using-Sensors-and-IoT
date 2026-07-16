@@ -83,5 +83,4 @@ If you like this project, please ⭐ star the repository!
 **Dhami Meghprit Kaur**
 
 - BCA  (Silver Oak University)
-- MCA (Pursuing) (Parul University)
 - Interested in Artificial Intelligence, IoT, Python, and Embedded Systems.
