@@ -21,11 +21,11 @@ This project is an IoT-based Smart Home Automation System that allows users to m
 
 ## Technologies Used
 
-- Python
 - Arduino IDE
 - ESP32 / Arduino
 - IoT
-- Embedded Systems
+- Sensors
+- Software 
 
 ## Hardware Components
 
